@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jjdxm-recyclerview-1.0.2">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.dou361.recyclerview/jjdxm-recyclerview/1.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.dou361.recyclerview/jjdxm-recyclerview/1.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.dou361.recyclerview/jjdxm-recyclerview/1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dou361.recyclerview/jjdxm-recyclerview/1.0.2/74d046d9b6841d91028e45c8fb1e03f93e2b4a3c/jjdxm-recyclerview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
